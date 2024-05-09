@@ -1,0 +1,9 @@
+{
+	"name": "project-devadf",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7fc55a3a-d235-4cfb-94ee-9172f5a5e389",
+		"tenantId": "5d335059-7344-4d11-b936-8e4bcb167cdb"
+	}
+}
